@@ -1,2 +1,3 @@
-# mobile-client
-MobileClient
+# doufox-mobile
+
+Mobile Client for Doufox
